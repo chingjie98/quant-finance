@@ -30,7 +30,7 @@ This project uses Python and the following key libraries:
 - `matplotlib` – for plotting results  
 - `scipy` – for optimization and statistical functions  
 - `yfinance` *(optional)* – for downloading financial data  
-- `scikit-learn` *(optional)* – for regression analysis (e.g., CAPM beta estimation)
+- `scikit-learn` – for regression analysis (e.g., CAPM beta estimation)
 
 ### 🔧 Installation
 
