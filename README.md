@@ -38,3 +38,8 @@ You can install the required packages using:
 
 ```bash
 pip install numpy pandas matplotlib scipy yfinance scikit-learn
+```
+or
+```bash
+pip install -r requirements.txt
+```
