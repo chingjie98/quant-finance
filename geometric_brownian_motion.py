@@ -17,3 +17,16 @@ def simulate_geometric_brownian_motion(S0, T=2, N=1000, mu=0.1, sigma=0.05):
   return t, S
 
 
+def plot_simulation(t, S):
+  plt.plot(t, S)
+  plt.xlabel("Time (t)")
+  plt.ylabel("Stock Price S(t)")
+  plt.title("Geometric Brownian Motion")
+  plt.show()
+
+
+
+if __name__ == "__main__":
+  
+  time, data = simulate_geometric_brownian_motion(10)
+  plot_simulation(time, data)
