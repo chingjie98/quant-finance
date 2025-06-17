@@ -1,7 +1,7 @@
 # 📈 Quant Finance
 
 👋 **Hello and welcome to my Quant Finance project!**  
-This repository contains implementations of key quantitative finance models covering portfolio theory, pricing models, risk management, and fixed income.
+This repository contains implementations of key quantitative finance models covering portfolio theory, pricing models, risk management, and fixed income. I'm still learning so it may take some time to implement all the models.
 
 ## 🧠 Implemented Models
 
