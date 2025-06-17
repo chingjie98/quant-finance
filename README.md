@@ -3,7 +3,7 @@
 👋 **Hello and welcome to my Quant Finance project!**  
 This repository contains implementations of key quantitative finance models covering portfolio theory, pricing models, risk management, and fixed income. I'm still learning so it may take some time to implement all the models.
 
-Currently, I'm quite familiar with markowitz model, CAPM, Brownian Motion aka wiener process, Geometric Brownian Motion (GBM) and BSM models. 
+Currently, I'm quite familiar with markowitz model, CAPM, Brownian Motion aka wiener process, Geometric Brownian Motion (GBM), BSM and Vasicek models. 
 
 ## 🧠 Models to be implemented
 
